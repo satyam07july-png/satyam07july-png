@@ -1,372 +1,191 @@
-# 👋 Hi, I'm **Divyanshu Mishra**
+# 👋 Hi, I'm Divyanshu Mishra
 
-<div align="center">
+::: {align="center"}
+# 🚀 AI Engineer \| Data Scientist \| Data Analyst \| Full Stack Developer \| AI & Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Data+Analyst;Software+Developer;Building+Production+Ready+Applications;Always+Learning+New+Technologies" alt="Typing Animation"/>
+`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer;Data+Scientist;Data+Analyst;Full+Stack+Developer;AI+%26+Software+Developer;Machine+Learning+Enthusiast;Building+Production+Ready+Applications;Open+Source+Contributor"/>`{=html}
 
-### 🚀 Building Intelligent Software with AI, Data & Full-Stack Development
+`<br>`{=html}
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+[![GitHub](https://img.shields.io/badge/GitHub-satyam07july--png-181717?style=for-the-badge&logo=github)](https://github.com/satyam07july-png)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyanshu_Mishra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshu-mishra-52bb403a7/)
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:satyammishra07july@gmail.com)
+:::
 
-</div>
-
----
+------------------------------------------------------------------------
 
 # 🌟 About Me
 
-💻 AI Engineer passionate about building scalable software.
+`<img align="right" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>`{=html}
 
-🚀 I build production-ready applications using modern technologies.
+I build **AI applications, enterprise software, dashboards, CRM systems,
+LMS platforms and full-stack products**.
 
-📊 Strong background in Data Analytics & Business Intelligence.
+## Current Focus
 
-🤖 Interested in AI Agents, Automation, Machine Learning and LLM Applications.
+-   🤖 Artificial Intelligence
+-   🧠 LLMs & AI Agents
+-   📊 Data Science
+-   📈 Data Analytics
+-   💻 Full Stack Development
+-   ⚙️ Enterprise Software
+-   ☁️ Cloud Deployment
+-   🚀 Open Source
 
-🎯 Current Focus
+------------------------------------------------------------------------
 
-* AI Applications
-* Agentic AI
-* Education CRM
-* Learning Management Systems
-* Full Stack Development
-* Data Analytics
-* Automation
-* OpenAI Integrations
+# 🛠 Tech Stack
 
----
+## Languages
 
-# ⚡ Tech Stack
-
-## Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp"/>
-
-</p>
+Python • JavaScript • TypeScript • SQL • C++
 
 ## Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite"/>
-
-</p>
+React • HTML • CSS • Tailwind CSS • Vite
 
 ## Backend
 
-<p>
+Node.js • Express.js • FastAPI
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+## Databases
 
-</p>
+PostgreSQL • MySQL • MongoDB • Firebase
 
-## Database
+## AI / ML
 
-<p>
+OpenAI • LangChain • Ollama • ChromaDB • Pandas • NumPy • Scikit-Learn •
+TensorFlow
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"/>
+## Data Analytics
 
-</p>
+Excel • Power BI • SQL • Statistics • Data Visualisation
 
-## AI & Data Science
+## DevOps
 
-<p>
+Git • GitHub • Docker • Linux • Vercel • Render
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+------------------------------------------------------------------------
 
-</p>
+# 📊 Skills
 
-Python • Pandas • NumPy • Scikit-Learn • OpenAI • LangChain • Ollama • ChromaDB
+  Skill            Level
+  ---------------- ------------
+  AI Engineering   ⭐⭐⭐⭐⭐
+  Data Science     ⭐⭐⭐⭐⭐
+  Data Analytics   ⭐⭐⭐⭐⭐
+  Python           ⭐⭐⭐⭐⭐
+  SQL              ⭐⭐⭐⭐⭐
+  React            ⭐⭐⭐⭐☆
+  Node.js          ⭐⭐⭐⭐☆
+  Power BI         ⭐⭐⭐⭐☆
 
----
-
-## Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,render,linux"/>
-
-</p>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
+------------------------------------------------------------------------
 
 # 🚀 Featured Projects
 
 ## 🎓 Education CRM + LMS
 
-Production-ready Education CRM with
-
-* Authentication
-* Lead Management
-* Counsellor Module
-* Dashboard
-* Analytics
-* PostgreSQL
-* REST APIs
-* JWT Authentication
-* Role Based Access
-
-**Tech**
-
-React • Node.js • Express • PostgreSQL • Tailwind CSS
-
----
+-   Authentication
+-   Dashboard
+-   Lead Management
+-   Counsellor Management
+-   Course Management
+-   PostgreSQL
+-   JWT
+-   REST APIs
 
 ## 🤖 AI Resume Analyzer
 
-* ATS Score
-* Resume Parsing
-* NLP
-* PDF Upload
-* AI Suggestions
-
-Tech
-
-Python • NLP • Streamlit • OpenAI
-
----
+-   ATS Score
+-   NLP
+-   Resume Analysis
+-   PDF Upload
 
 ## 💳 Credit Card Fraud Detection
 
-* Machine Learning
-* Fraud Prediction
-* SHAP Explainability
-* Streamlit Dashboard
-
-Tech
-
-Python • Scikit Learn • Pandas
-
----
+-   Machine Learning
+-   SHAP Explainability
+-   Streamlit
 
 ## 🛒 Affiliate Management Software
 
-* Affiliate Portal
-* Referral Tracking
-* Dashboard
-* Admin Panel
-* Authentication
-
-Tech
-
-React • Node.js • PostgreSQL
-
----
-
-## 🥗 Fitvora
-
-Healthy Protein Kitchen Website
-
-* Full Stack
-* Authentication
-* Orders
-* Dashboard
-
----
+-   Referral Tracking
+-   Dashboard
+-   Admin Panel
 
 ## 👨‍💼 Attendance Management System
 
-* HR Portal
-* Admin Portal
-* Employee Portal
-* Attendance
-* Reports
+## 🥗 Fitvora
 
----
+## 📊 HR Employee Attrition Analysis
 
-# 🤖 AI Skills
+## 📈 Retail Forecasting Dashboard
 
-✔ Prompt Engineering
+## 🎤 AI Voice Assistant
 
-✔ OpenAI APIs
+------------------------------------------------------------------------
 
-✔ AI Agents
+# 🤖 AI Expertise
 
-✔ LangChain
+-   Prompt Engineering
+-   AI Agents
+-   RAG
+-   Embeddings
+-   Vector Databases
+-   LangChain
+-   OpenAI API
+-   Automation
 
-✔ RAG
+------------------------------------------------------------------------
 
-✔ LLM Applications
+# 📈 GitHub Stats
 
-✔ Automation
+Replace USERNAME with: **satyam07july-png**
 
-✔ Chatbots
+``` md
+![Stats](https://github-readme-stats.vercel.app/api?username=satyam07july-png&show_icons=true&theme=tokyonight)
 
-✔ Vector Databases
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam07july-png&layout=compact&theme=tokyonight)
 
-✔ ChromaDB
-
-✔ Ollama
-
----
-
-# 📊 Data Analytics
-
-✔ Excel
-
-✔ Advanced Excel
-
-✔ Power BI
-
-✔ SQL
-
-✔ PostgreSQL
-
-✔ Data Cleaning
-
-✔ Data Visualization
-
-✔ Dashboards
-
-✔ Forecasting
-
-✔ Business Analytics
-
----
-
-# 💼 Experience
-
-### AI & Software Developer
-
-**Dizital Adda**
-
-* Developed scalable web applications.
-* Built AI-powered tools.
-* Created production-ready REST APIs.
-* Worked on PostgreSQL database design.
-* Built CRM & LMS systems.
-* Developed dashboards and reporting modules.
-* Integrated authentication and role management.
-
----
-
-# 📚 Certifications
-
-* Data Science
-* Python Programming
-* SQL
-* Power BI
-* Advanced Excel
-* AI Development
-* Software Development
-
----
-
-# 🎯 Currently Learning
-
-* Agentic AI
-* Multi-Agent Systems
-* MCP
-* LangGraph
-* Kubernetes
-* AWS
-* Docker
-* AI Automation
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-```text
-while(alive){
-
-   Learn();
-
-   Build();
-
-   Improve();
-
-   Repeat();
-
-}
+![Streak](https://streak-stats.demolab.com?user=satyam07july-png&theme=tokyonight)
 ```
 
----
+------------------------------------------------------------------------
 
-# 🐍 Contribution Snake
+# 🏆 Certifications
 
-Add this GitHub Action to generate your contribution snake:
+-   Data Science
+-   Python
+-   SQL
+-   Power BI
+-   AI Development
+-   Software Development
 
-```yaml
-name: Generate Snake
+------------------------------------------------------------------------
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
+# 🎯 2026 Goals
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+-   Build AI SaaS
+-   Master Agentic AI
+-   Contribute to Open Source
+-   Publish ML Projects
+-   Learn Kubernetes & AWS
 
-    steps:
-      - uses: Platane/snk@master
-```
+------------------------------------------------------------------------
 
----
+# 📫 Contact
 
-# ⭐ Quote
+-   GitHub: https://github.com/satyam07july-png
+-   LinkedIn: https://www.linkedin.com/in/divyanshu-mishra-52bb403a7/
+-   Email: satyammishra07july@gmail.com
+
+------------------------------------------------------------------------
+
+# 🐍 Snake Contribution
+
+Add Platane/snk GitHub Action to generate a contribution snake.
+
+------------------------------------------------------------------------
 
 > **"Code with Purpose. Build with Passion. Learn without Limits."**
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00FFFF&center=true&width=600&lines=Happy+Coding!;Let's+Build+Something+Amazing!;Always+Open+to+Collaboration!"/>
-
-</div>
