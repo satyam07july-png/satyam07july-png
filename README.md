@@ -6,7 +6,9 @@
 
 ### 🚀 Building Intelligent Software with AI, Data & Full-Stack Development
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyam07july-png&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -95,10 +97,11 @@ Python • Pandas • NumPy • Scikit-Learn • OpenAI • LangChain • Ollama
 # 📈 GitHub Analytics
 
 <p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyam07july-png&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam07july-png&layout=compact&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
 
 </p>
 
@@ -108,7 +111,7 @@ Python • Pandas • NumPy • Scikit-Learn • OpenAI • LangChain • Ollama
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=satyam07july-png&theme=tokyonight)
 
 </p>
 
@@ -118,7 +121,7 @@ Python • Pandas • NumPy • Scikit-Learn • OpenAI • LangChain • Ollama
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=2&column=4"/>
+![Trophy](https://github-profile-trophy.vercel.app/?username=satyam07july-png&theme=tokyonight&row=2&column=4)
 
 </p>
 
