@@ -1,6 +1,6 @@
 # 👋 Divyanshu Mishra
 
-> **AI Engineer \| Data Scientist \| Data Analyst \| Full Stack
+> **AI Engineer \| Data Scientist \| Data Analyst \|Data science\| Full Stack
 > Developer \| AI & Software Developer**
 
 > ⚠️ **Note:** The cyberpunk dashboard shown in the generated image is a
