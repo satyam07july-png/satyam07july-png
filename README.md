@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Data+Analyst;Software+Developer;Building+Production+Ready+Applications;Always+Learning+New+Technologies" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Data+Analyst;Data Science,Software+Developer;Building+Production+Ready+Applications;Always+Learning+New+Technologies" alt="Typing Animation"/>
 
 ### 🚀 Building Intelligent Software with AI, Data & Full-Stack Development
 
@@ -303,15 +303,15 @@ Healthy Protein Kitchen Website
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/divyanshu-mishra-52bb403a7/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="satyammishra07july@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/satyam07july-png/satyam07july-png">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
