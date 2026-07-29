@@ -118,12 +118,12 @@ Cloud & DevOps           ████████████░░░░░░�
 ## `> github_telemetry`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=satyam07july-png&show_icons=true&hide_border=true&bg_color=0D1117&title_color=40E9FF&icon_color=A855F7&text_color=C9D1D9" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam07july-png&layout=compact&hide_border=true&bg_color=0D1117&title_color=40E9FF&text_color=C9D1D9" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=satyam07july-png&show_icons=true&hide_border=true&bg_color=0D1117&title_color=40E9FF&icon_color=A855F7&text_color=FFFFFF&cache_seconds=1800" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam07july-png&layout=compact&hide_border=true&bg_color=0D1117&title_color=40E9FF&text_color=FFFFFF&cache_seconds=1800" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=satyam07july-png&hide_border=true&background=0D1117&ring=40E9FF&fire=A855F7&currStreakLabel=40E9FF&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=satyam07july-png&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=satyam07july-png&theme=algolia&no-frame=true&no-bg=false&margin-w=8&margin-h=8" alt="GitHub trophies" />
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam07july-png&bg_color=0D1117&color=C9D1D9&line=40E9FF&point=A855F7&area=true&hide_border=true" width="100%" alt="Contribution graph" />
 </div>
