@@ -3,7 +3,7 @@
 <div align="center">
   <img src="./assets/svg/hero-banner.svg" alt="Divyanshu Mishra — AI Engineer, Data Scientist, Data Analyst & Full Stack Developer" width="100%" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2800&pause=800&color=40E9FF&center=true&vCenter=true&width=820&lines=Engineering+intelligent+software+with+AI+%26+data;Building+full-stack+products+that+solve+real+problems;Exploring+Agentic+AI%2C+RAG+%26+automation" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2800&pause=800&color=40E9FF&center=true&vCenter=true&width=820&lines=AI+Engineer+%7C+Data+Scientist+%7C+Data+Analyst;Engineering+intelligent+software+with+AI+%26+data;Building+full-stack+products+that+solve+real+problems;Exploring+Agentic+AI%2C+RAG+%26+automation" alt="Animated introduction" />
   <br /><br />
   <a href="https://github.com/satyam07july-png?tab=followers"><img src="https://img.shields.io/github/followers/satyam07july-png?style=for-the-badge&logo=github&label=FOLLOWERS&color=0b1220&labelColor=101a33" alt="GitHub followers" /></a>
   <a href="https://komarev.com/ghpvc/?username=satyam07july-png"><img src="https://komarev.com/ghpvc/?username=satyam07july-png&style=for-the-badge&color=00c7ff&label=PROFILE+VIEWS" alt="Profile views" /></a>
@@ -23,7 +23,7 @@
 
 <img align="right" width="260" src="./assets/svg/ai-robot.svg" alt="Original neon robot illustration" />
 
-I'm **Divyanshu Mishra**, an AI and software developer who turns ideas into useful, data-informed products. I enjoy the whole path from clean interfaces and dependable APIs to LLM-powered workflows, analytics, and deployment.
+I'm **Divyanshu Mishra**, an AI engineer, software developer, data scientist, and data analyst who turns ideas into useful, data-informed products. I enjoy the whole path from clean interfaces and dependable APIs to LLM-powered workflows, data science, analytics, and deployment.
 
 - **Current focus:** AI applications, agentic workflows, RAG, education technology, and automation.
 - **What I build:** Full-stack platforms, dashboards, CRM/LMS systems, AI copilots, and decision-support tools.
