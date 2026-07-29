@@ -1,7 +1,7 @@
 <!-- PROFILE README · satyam07july-png -->
 
 <div align="center">
-  <img src="assets/banner.svg" alt="Divyanshu Mishra — AI Engineer, Data Scientist, Data Analyst & Full Stack Developer" width="100%" />
+  <img src="./assets/svg/hero-banner.svg" alt="Divyanshu Mishra — AI Engineer, Data Scientist, Data Analyst & Full Stack Developer" width="100%" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2800&pause=800&color=40E9FF&center=true&vCenter=true&width=820&lines=Engineering+intelligent+software+with+AI+%26+data;Building+full-stack+products+that+solve+real+problems;Exploring+Agentic+AI%2C+RAG+%26+automation" alt="Animated introduction" />
   <br /><br />
@@ -21,7 +21,7 @@
 <!-- ABOUT -->
 ## `> about_me`
 
-<img align="right" width="260" src="assets/robot.svg" alt="Original neon robot illustration" />
+<img align="right" width="260" src="./assets/svg/ai-robot.svg" alt="Original neon robot illustration" />
 
 I'm **Divyanshu Mishra**, an AI and software developer who turns ideas into useful, data-informed products. I enjoy the whole path from clean interfaces and dependable APIs to LLM-powered workflows, analytics, and deployment.
 
@@ -34,7 +34,7 @@ I'm **Divyanshu Mishra**, an AI and software developer who turns ideas into usef
 <!-- SKILLS -->
 ## `> capability_matrix`
 
-<div align="center"><img src="assets/icons/tech-grid.svg" width="100%" alt="Technology capability matrix" /></div>
+<div align="center"><img src="./assets/svg/decorative-icons.svg" width="100%" alt="Technology capability matrix" /></div>
 
 <table>
 <tr><td valign="top" width="50%">
@@ -73,42 +73,42 @@ Cloud & DevOps           ████████████░░░░░░�
 
 <table>
 <tr>
-<td width="50%"><img src="assets/project/education-crm.svg" alt="Education CRM and LMS" /><br />
+<td width="50%"><img src="./assets/svg/project-card-bg.svg" alt="Education CRM and LMS" /><br />
 <b>Education CRM + LMS</b><br />A role-based education platform for leads, learners, counsellors, reporting, and course operations.<br /><br />
 <code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Tailwind</code><br /><br />
 <a href="https://github.com/satyam07july-png?tab=repositories">GitHub</a> · <a href="#selected_builds">Live demo</a> · <a href="#selected_builds">Docs</a></td>
-<td width="50%"><img src="assets/project/ai-resume.svg" alt="AI Resume Analyzer" /><br />
+<td width="50%"><img src="./assets/svg/coding-illustration.svg" alt="AI Resume Analyzer" /><br />
 <b>AI Resume Analyzer</b><br />An ATS-oriented resume analysis experience with parsing, scoring, and actionable AI feedback.<br /><br />
 <code>Python</code> <code>OpenAI</code> <code>NLP</code> <code>Streamlit</code><br /><br />
 <a href="https://github.com/satyam07july-png?tab=repositories">GitHub</a> · <a href="#selected_builds">Live demo</a> · <a href="#selected_builds">Docs</a></td>
 </tr><tr>
-<td><img src="assets/project/fraud.svg" alt="Fraud detection dashboard" /><br />
+<td><img src="./assets/svg/data-science.svg" alt="Fraud detection dashboard" /><br />
 <b>Credit Card Fraud Detection</b><br />Explainable classification and dashboarding for identifying anomalous transactions.<br /><br />
 <code>Python</code> <code>Scikit-learn</code> <code>Pandas</code> <code>SHAP</code><br /><br />
 <a href="https://github.com/satyam07july-png?tab=repositories">GitHub</a> · <a href="#selected_builds">Live demo</a> · <a href="#selected_builds">Docs</a></td>
-<td><img src="assets/project/affiliate.svg" alt="Affiliate Management Software" /><br />
+<td><img src="./assets/svg/holographic-elements.svg" alt="Affiliate Management Software" /><br />
 <b>Affiliate Management Software</b><br />A portal for affiliate onboarding, referral attribution, administration, and insights.<br /><br />
 <code>React</code> <code>Node.js</code> <code>PostgreSQL</code><br /><br />
 <a href="https://github.com/satyam07july-png?tab=repositories">GitHub</a> · <a href="#selected_builds">Live demo</a> · <a href="#selected_builds">Docs</a></td>
 </tr><tr>
-<td><img src="assets/project/fitvora.svg" alt="Fitvora nutrition platform" /><br />
+<td><img src="./assets/svg/project-card-bg.svg" alt="Fitvora nutrition platform" /><br />
 <b>Fitvora</b><br />A modern healthy-protein kitchen experience for customers, orders, and operations.<br /><br />
 <code>React</code> <code>Node.js</code> <code>MongoDB</code><br /><br />
 <a href="https://github.com/satyam07july-png?tab=repositories">GitHub</a> · <a href="#selected_builds">Live demo</a> · <a href="#selected_builds">Docs</a></td>
-<td><img src="assets/project/attendance.svg" alt="Attendance Management System" /><br />
+<td><img src="./assets/svg/coding-illustration.svg" alt="Attendance Management System" /><br />
 <b>Attendance Management System</b><br />An employee attendance workflow with admin controls, reports, and dashboards.<br /><br />
 <code>React</code> <code>Express</code> <code>MySQL</code><br /><br />
 <a href="https://github.com/satyam07july-png?tab=repositories">GitHub</a> · <a href="#selected_builds">Live demo</a> · <a href="#selected_builds">Docs</a></td>
 </tr><tr>
-<td><img src="assets/project/attrition.svg" alt="HR attrition analysis" /><br />
+<td><img src="./assets/svg/data-science.svg" alt="HR attrition analysis" /><br />
 <b>HR Employee Attrition Analysis</b><br />Business intelligence analysis for surfacing retention patterns and risks.<br /><br />
 <code>Power BI</code> <code>Excel</code> <code>Statistics</code><br /><br />
 <a href="https://github.com/satyam07july-png?tab=repositories">GitHub</a> · <a href="#selected_builds">Live demo</a> · <a href="#selected_builds">Docs</a></td>
-<td><img src="assets/project/forecast.svg" alt="Retail forecast dashboard" /><br />
+<td><img src="./assets/svg/tech-background.svg" alt="Retail forecast dashboard" /><br />
 <b>Retail Forecast Dashboard</b><br />A data story for sales performance, trends, and forecast-led retail decisions.<br /><br />
 <code>Power BI</code> <code>SQL</code> <code>Forecasting</code><br /><br />
 <a href="https://github.com/satyam07july-png?tab=repositories">GitHub</a> · <a href="#selected_builds">Live demo</a> · <a href="#selected_builds">Docs</a></td>
-</tr><tr><td colspan="2"><img src="assets/project/voice.svg" alt="AI voice assistant" /><br />
+</tr><tr><td colspan="2"><img src="./assets/svg/ai-robot.svg" alt="AI voice assistant" /><br />
 <b>AI Voice Assistant</b> — Voice-enabled assistant experiments combining natural-language interaction, automation, and AI services.<br /><br />
 <code>Python</code> <code>OpenAI</code> <code>Speech</code> <code>Automation</code><br /><br />
 <a href="https://github.com/satyam07july-png?tab=repositories">GitHub</a> · <a href="#selected_builds">Live demo</a> · <a href="#selected_builds">Docs</a></td></tr>
@@ -169,7 +169,7 @@ Cloud & DevOps           ████████████░░░░░░�
 </div>
 
 <div align="center"><br />
-  <img src="assets/hero-background.svg" width="100%" alt="Futuristic neon divider" />
+  <img src="./assets/svg/footer-wave.svg" width="100%" alt="Futuristic neon divider" />
   <br />
   <i>“Code with purpose. Build with curiosity. Learn without limits.”</i><br /><br />
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=17&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=560&lines=Open+to+meaningful+collaboration.;Let%27s+build+the+next+useful+thing." alt="Closing message" />
